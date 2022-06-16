@@ -9,7 +9,4 @@ include Slideable
         @pos = pos
     end
 
-    def moves
-        
-    end
 end

@@ -21,7 +21,7 @@ class Board
     end
 
     def [](pos)
-        x,y = pos
+        x,y = pos   
         @grid[x][y]
     end
 
